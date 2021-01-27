@@ -1,2 +1,2 @@
 # C
-lianxi
+c练习
